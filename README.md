@@ -1,5 +1,5 @@
 # Python-Programming-Fundamentals
-Day 1 - Comments, Type casting, String Formatting
+Day 1 - Comments, Type casting, String Formatting  
 Day 2 - String, Boolean, list, tuple, set, frozenset, Dictionary, Array
 Day 3 - Operators, if , if-else, elif,nested if statements
 Day 4 - for, nested for, while loop, ternary operator, match statement
