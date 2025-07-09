@@ -8,14 +8,14 @@
 **Day 7 -** Class, object, attribute, special methods, methods, property  
 **Day 8 -** Inheritance, types of inheritance  
 **Day 9 -** Polymorphism, overloading, overriding, Abstract class, Encapsulation, Iterators, Generators  
-**Day 10 -** Exception Handling, help function
-**Day 11 -** Files
-**Day 12 -** os module  
-**Day 13 -** numpy array creation, attributes
-**Day 14 -** Indexing 
-**Day 15 -** stacking
-**Day 16 -** Arithmetic operation and aggregation
-**Day 17 -** Aggregation and Linear Algebra
-**Day 18 -** creating df, acces and index
-**Day 19 -** indexing and selecting, other useful methods 
+**Day 10 -** Exception Handling, help function 
+**Day 11 -** Files 
+**Day 12 -** os module 
+**Day 13 -** numpy array creation, attributes 
+**Day 14 -** Indexing  
+**Day 15 -** stacking 
+**Day 16 -** Arithmetic operation and aggregation 
+**Day 17 -** Aggregation and Linear Algebra 
+**Day 18 -** creating df, acces and index 
+**Day 19 -** indexing and selecting, other useful methods  
 **Day 20 -** concat, merge and join
